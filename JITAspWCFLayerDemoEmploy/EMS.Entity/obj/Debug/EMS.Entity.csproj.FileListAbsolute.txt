@@ -1,0 +1,12 @@
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\bin\Debug\EMS.Entity.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\bin\Debug\EMS.Entity.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.pdb
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\bin\Debug\EMS.Entity.dll
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\bin\Debug\EMS.Entity.pdb
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.csprojAssemblyReference.cache
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.csproj.CoreCompileInputs.cache
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.dll
+C:\JITAspWCFLayerDemoEmploy\EMS.Entity\obj\Debug\EMS.Entity.pdb

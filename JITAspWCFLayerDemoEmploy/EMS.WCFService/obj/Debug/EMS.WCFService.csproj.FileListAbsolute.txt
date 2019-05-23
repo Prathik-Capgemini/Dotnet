@@ -1,0 +1,13 @@
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.dll.config
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.pdb
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.csproj.CoreCompileInputs.cache
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.dll
+C:\C#\AspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.pdb
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.dll.config
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.dll
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\bin\EMS.WCFService.pdb
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.csproj.CoreCompileInputs.cache
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.dll
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.pdb
+C:\JITAspWCFLayerDemoEmploy\EMS.WCFService\obj\Debug\EMS.WCFService.csprojAssemblyReference.cache
