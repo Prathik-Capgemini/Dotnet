@@ -1,0 +1,17 @@
+C:\Testing\TestDemo\bin\Debug\NUnit3.TestAdapter.dll
+C:\Testing\TestDemo\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Testing\TestDemo\bin\Debug\nunit.engine.dll
+C:\Testing\TestDemo\bin\Debug\nunit.engine.api.dll
+C:\Testing\TestDemo\bin\Debug\TestDemo.exe.config
+C:\Testing\TestDemo\bin\Debug\TestDemo.exe
+C:\Testing\TestDemo\bin\Debug\TestDemo.pdb
+C:\Testing\TestDemo\bin\Debug\nunit.framework.dll
+C:\Testing\TestDemo\bin\Debug\WebDriver.dll
+C:\Testing\TestDemo\bin\Debug\nunit.framework.pdb
+C:\Testing\TestDemo\bin\Debug\nunit.framework.xml
+C:\Testing\TestDemo\bin\Debug\WebDriver.xml
+C:\Testing\TestDemo\obj\Debug\TestDemo.csprojAssemblyReference.cache
+C:\Testing\TestDemo\obj\Debug\TestDemo.csproj.CoreCompileInputs.cache
+C:\Testing\TestDemo\obj\Debug\TestDemo.csproj.CopyComplete
+C:\Testing\TestDemo\obj\Debug\TestDemo.exe
+C:\Testing\TestDemo\obj\Debug\TestDemo.pdb
