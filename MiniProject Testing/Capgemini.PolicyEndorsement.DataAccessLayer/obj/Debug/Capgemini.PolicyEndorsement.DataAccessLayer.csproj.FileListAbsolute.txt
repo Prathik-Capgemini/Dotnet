@@ -1,0 +1,94 @@
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CopyComplete
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CopyComplete
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CopyComplete
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\Users\Abridge Solutions\Desktop\MINIPROJECT - 177877\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csprojAssemblyReference.cache
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csprojAssemblyReference.cache
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CopyComplete
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\MINIPROJECT - CopyCode\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\System.Data.SqlServerCe.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csprojAssemblyReference.cache
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.csproj.CopyComplete
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\MiniProject Testing\Capgemini.PolicyEndorsement.DataAccessLayer\obj\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
